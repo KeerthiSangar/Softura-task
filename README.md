@@ -9,5 +9,3 @@ CubeScript:
 SphereScript:
  Attach to Sphere gameobject
  It is used to change the colour of the sphere when the cube entered the trigger area.
-
-
